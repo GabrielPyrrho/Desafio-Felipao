@@ -9,7 +9,7 @@ class Heroi {
       let ataque;
       switch (this.tipo) {
         case "mago":
-          ataque = "magia";
+          ataque = "magia"; 
           break;
         case "guerreiro":
           ataque = "espada";
