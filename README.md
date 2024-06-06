@@ -1,6 +1,6 @@
 # DESAFIO DE PROJETO DO FELIPÃO
 
-### *Fala rapaziada, meu nome é Jean Christian e é com alegria e satisfação que trago a resolução do desafio de projeto proposto pelo excelente professor Felipão no curso da DIO* . 
+### *Fala rapaziada, meu nome é Gabriel Pyrrho e é com alegria e satisfação que trago a resolução do desafio de projeto proposto pelo excelente professor Felipão no curso da DIO* . 
 #### 🚫 *Algumas alterações foram feitas e acrescentadas no meu desafio pessoal, então leia a documentação nas partes que comtem os emojis para entender melhor.* 🚫
 📚 **Segue a descrição do desafio:**
 
