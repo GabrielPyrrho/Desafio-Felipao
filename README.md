@@ -1,14 +1,15 @@
-DESAFIO DE PROJETO DO FELIPÃO
+#DESAFIO DE PROJETO DO FELIPÃO
+
 Fala rapaziada, meu nome é Jean Christian e é com alegria e satisfação que trago a resolução do desafio de projeto proposto pelo excelente professor Felipão no curso da DIO .
 🚫 Algumas alterações foram feitas e acrescentadas no meu desafio pessoal, então leia a documentação nas partes que comtem os emojis para entender melhor. 🚫
 📚 Segue a descrição do desafio:
 
-Entendendo o Desafio
+#Entendendo o Desafio
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
 
 Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
 
-Instruções para entrega
+#Instruções para entrega
 
 1️⃣ Desafio Classificador de nível de Herói
 O Que deve ser utilizado
